@@ -14,7 +14,7 @@ Whats Done & To Come:
 - [ ] User CLI
 - [ ] Mirai Attack Building/Attack building
 - [ ] More...
-
+Current Line Count: 265
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev_new.png)
 
 [     SOURCE MIGHT COME TO GITHUB.    ]
