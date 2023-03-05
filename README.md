@@ -13,6 +13,7 @@ Whats Done & To Come:
 - [ ] User Managment CLI
 - [ ] User CLI
 - [ ] Mirai Attack Building/Attack building
+- [ ] ip locking to account
 - [ ] More...
 
 Current Line Count: 265
