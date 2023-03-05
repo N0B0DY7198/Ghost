@@ -1,9 +1,20 @@
 # Ghost
 Simple Free C2 (WIP) 
-Ghost is a free c2 with good features. Project started from pure bordom started at midnight.
-I hope to add malware support and stuff along the lines of that
-Simple DB encryption, Simple first run system
+Whats Done & To Come:
+- [x] DB Encryption by key
+- [ ] API Support
+- [ ] API System
+- [ ] Gif2ConsoleGif
+- [x] Malware support
+- [x] Networking
+- [x] Logging
+- [ ] Banner system
+- [ ] TFX System
+- [ ] User Managment CLI
+- [ ] User CLI
+- [ ] Marai Attack Building/Attack building
+- [ ] More...
 
-![First Look](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev_new.png)
+![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev_new.png)
 
 [     SOURCE MIGHT COME TO GITHUB.    ]
