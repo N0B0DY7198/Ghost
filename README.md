@@ -14,6 +14,8 @@ Whats Done & To Come:
 - [ ] User CLI
 - [ ] Mirai Attack Building/Attack building
 - [ ] ip locking to account
+- [x] CTX Resolver
+- [x] Custom Table Lib
 - [ ] More...
 
 Current Line Count: 265
