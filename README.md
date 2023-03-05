@@ -4,7 +4,7 @@ Whats Done & To Come:
 - [x] DB Encryption by key
 - [ ] API Support
 - [ ] API System
-- [ ] Gif to TFX
+- [x] Gif to TFX (EarlyBeta)
 - [x] Malware support
 - [x] Networking
 - [x] Logging
@@ -14,11 +14,11 @@ Whats Done & To Come:
 - [ ] User CLI
 - [ ] Mirai Attack Building
 - [ ] Attack building
+- [ ] Banner system
 - [ ] ip locking to account
 - [x] CTX Resolver
-- [x] Queue system for init
 - [x] Custom Table Lib
-- [ ] More...
+- [ ] GIF Caching toggle (Turn off live rendering)
 
 Current Line Count: 398
 # Looks
