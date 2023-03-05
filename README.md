@@ -20,7 +20,7 @@ Whats Done & To Come:
 - [x] Custom Table Lib
 - [ ] More...
 
-Current Line Count: 265
+Current Line Count: 331
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev_new.png)
 
