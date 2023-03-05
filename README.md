@@ -4,7 +4,7 @@ Whats Done & To Come:
 - [x] DB Encryption by key
 - [ ] API Support
 - [ ] API System
-- [ ] Gif2ConsoleGif
+- [ ] Gif to TFX
 - [x] Malware support
 - [x] Networking
 - [x] Logging
@@ -12,7 +12,8 @@ Whats Done & To Come:
 - [ ] TFX System
 - [ ] User Managment CLI
 - [ ] User CLI
-- [ ] Mirai Attack Building/Attack building
+- [ ] Mirai Attack Building
+- [ ] Attack building
 - [ ] ip locking to account
 - [x] CTX Resolver
 - [x] Queue system for init
