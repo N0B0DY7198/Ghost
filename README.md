@@ -15,6 +15,7 @@ Whats Done & To Come:
 - [ ] Mirai Attack Building/Attack building
 - [ ] ip locking to account
 - [x] CTX Resolver
+- [x] Queue system for init
 - [x] Custom Table Lib
 - [ ] More...
 
