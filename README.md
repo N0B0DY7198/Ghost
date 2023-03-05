@@ -12,7 +12,7 @@ Whats Done & To Come:
 - [ ] TFX System
 - [ ] User Managment CLI
 - [ ] User CLI
-- [ ] Marai Attack Building/Attack building
+- [ ] Mirai Attack Building/Attack building
 - [ ] More...
 
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev_new.png)
