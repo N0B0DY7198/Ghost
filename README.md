@@ -4,7 +4,7 @@ Whats Done & To Come:
 - [x] DB Encryption by key
 - [ ] API Support
 - [ ] API System
-- [x] Gif to TFX (EarlyBeta)
+- [x] Gif to TFX (EarlyBeta) [ANSI]
 - [x] Malware support
 - [x] Networking
 - [x] Logging
