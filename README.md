@@ -24,6 +24,8 @@ Whats Done & To Come:
 
 Expected release type: Compiled
 
+Expected first release: 3/12/23
+
 Current Line Count: 472
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
