@@ -26,6 +26,8 @@ Current Line Count: 472
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
 ![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/login2.PNG)
+![DevImage3](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/log_failed.png)
+
 
 
 [     SOURCE MIGHT COME TO GITHUB.    ]
