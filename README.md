@@ -25,7 +25,7 @@ Whats Done & To Come:
 Current Line Count: 398
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
-![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/login.png)
+![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/login2.png)
 
 
 [     SOURCE MIGHT COME TO GITHUB.    ]
