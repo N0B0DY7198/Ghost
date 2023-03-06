@@ -19,6 +19,7 @@ Whats Done & To Come:
 - [ ] Banner system
 - [ ] ip locking to account
 - [x] CTX Resolver
+- [ ] Discord logging
 - [x] Custom Table Lib
 - [ ] GIF Caching toggle (Turn off live rendering)
 
