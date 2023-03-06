@@ -22,7 +22,7 @@ Whats Done & To Come:
 - [x] Custom Table Lib
 - [ ] GIF Caching toggle (Turn off live rendering)
 
-Current Line Count: 398
+Current Line Count: 472
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
 ![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/login2.PNG)
