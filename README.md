@@ -1,5 +1,5 @@
 # Ghost
-Simple Free C2 (WIP)
+Simple C2 (WIP)
 Whats Done & To Come:
 - [x] DB Encryption by key
 - [ ] API Support
