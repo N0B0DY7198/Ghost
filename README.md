@@ -30,5 +30,5 @@ Expected first release: 3/12/23
 Current Line Count: 472
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
-![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/login2.PNG)
+![image](https://user-images.githubusercontent.com/95550822/223238908-21b79e32-34f9-41b0-acda-facd232594cc.png)
 ![DevImage3](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/log_failed.png)
