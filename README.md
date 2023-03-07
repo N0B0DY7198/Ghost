@@ -5,7 +5,7 @@ Whats Done & To Come:
 - [ ] API Support
 - [ ] API System
 - [x] Gif to TFX [ANSI]
-- [ ] Finish Gif To TFX [Ascii, Dots]
+- [ ] Finish Gif To TFX [Ascii, 8Bit] (WorkingOn8Bit)
 - [x] Malware support (Not100%)
 - [ ] Debug Malware and finish it
 - [x] Networking
