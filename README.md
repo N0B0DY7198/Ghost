@@ -11,7 +11,7 @@ Whats Done & To Come:
 - [x] Networking
 - [x] Logging
 - [ ] Banner system
-- [ ] TFX System
+- [x] TFX System (FinalStages)
 - [ ] User Managment CLI
 - [ ] User CLI
 - [ ] Mirai Attack Building
