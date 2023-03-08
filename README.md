@@ -22,6 +22,7 @@ Whats Done & To Come (checklist):
 - [ ] Discord logging
 - [x] Custom Table Lib
 - [ ] GIF Caching toggle (Turn off live rendering)
+- [ ] Faster rendering of all effects & gifs
 
 Expected release type: Compiled
 
