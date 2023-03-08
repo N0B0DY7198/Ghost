@@ -11,6 +11,7 @@ Whats Done & To Come:
 - [x] Networking
 - [x] Logging
 - [ ] Banner system
+- [x] Animated Login Title And Cursor Blinking
 - [x] TFX System (FinalStages)
 - [ ] User Managment CLI
 - [ ] User CLI
