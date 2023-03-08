@@ -17,7 +17,6 @@ Whats Done & To Come:
 - [ ] User CLI
 - [ ] Mirai Attack Building
 - [ ] Attack building
-- [ ] Banner system
 - [ ] ip locking to account
 - [x] CTX Resolver
 - [ ] Discord logging
