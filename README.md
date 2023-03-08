@@ -10,7 +10,7 @@ Whats Done & To Come:
 - [ ] Debug Malware and finish it
 - [x] Networking
 - [x] Logging
-- [ ] Banner system
+- [ ] Theme system
 - [x] Animated Login Title And Cursor Blinking
 - [x] TFX System (FinalStages)
 - [ ] User Managment CLI
