@@ -31,4 +31,3 @@ Current Line Count: 539
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/indev.PNG)
 ![image](https://user-images.githubusercontent.com/95550822/223238908-21b79e32-34f9-41b0-acda-facd232594cc.png)
-![DevImage3](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/log_failed.png)
