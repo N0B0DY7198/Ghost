@@ -1,6 +1,6 @@
 # Ghost (Dev Log)
 Simple C2 (WIP)
-Whats Done & To Come:
+Whats Done & To Come (checklist):
 - [x] DB Encryption by key
 - [ ] API Support
 - [ ] API System
