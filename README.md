@@ -13,8 +13,8 @@ Whats Done & To Come (checklist):
 - [ ] Theme system
 - [x] Animated Login Title And Cursor Blinking
 - [x] TFX System (FinalStages)
-- [ ] User Managment CLI
-- [ ] User CLI
+- [ ] User Managment UI
+- [x] User UI
 - [ ] Mirai Attack Building
 - [ ] Attack building
 - [ ] ip locking to account
