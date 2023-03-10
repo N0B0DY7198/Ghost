@@ -28,7 +28,7 @@ Expected release type: Compiled
 
 Expected first release: 3/20/23
 
-Current Line Count: 725 
+Current Line Count: 1008 
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/ui.png)
 ![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/best_login.png)
