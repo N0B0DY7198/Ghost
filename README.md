@@ -30,5 +30,5 @@ Expected first release: 3/20/23
 
 Current Line Count: 725 
 # Looks
-![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/ui.PNG)
+![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/ui.png)
 ![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/best_login.png)
