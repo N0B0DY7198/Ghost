@@ -21,6 +21,7 @@ Whats Done & To Come (checklist):
 - [x] Custom Table Lib
 - [ ] GIF Caching toggle (Turn off live rendering)
 - [x] Faster rendering of all effects & gifs
+- [x] Full table system (table files, table includes)
 
 Expected release type: Compiled
 
