@@ -31,3 +31,4 @@ Current Line Count: 1008
 # Looks
 ![DevImage](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/ui.png)
 ![DevImage2](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/best_login.png)
+![DevImage3](https://raw.githubusercontent.com/N0B0DY7198/Ghost/main/tables.png)
